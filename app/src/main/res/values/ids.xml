@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_result_title" type="id" />
+    <item name="tv_moves_stat" type="id" />
+    <item name="tv_time_stat" type="id" />
+    <item name="btn_play_again" type="id" />
+    <item name="btn_main_menu" type="id" />
+</resources>

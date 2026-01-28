@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cosmic Match</string>
+    <string name="space_memory">Space Memory</string>
+
+    <string name="btn_play">Play</string>
+    <string name="btn_how_to_play">How to Play</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_play_again">Play Again</string>
+    <string name="btn_main_menu">Main Menu</string>
+
+    <string name="instructions_title">How To Play</string>
+    <string name="instructions_text">
+        1. All cards start face-down.\n
+        2. Tap a card to reveal its space-themed icon.\n
+        3. Tap a second card. If the icons match, they stay face-up as a found pair.\n
+        4. If they do not match, they will automatically flip back face-down after a short delay.\n
+        5. The goal is to find all matching pairs before the time runs out!\n
+        \n
+        Hint System:\n
+        - You start with a limited number of hints (e.g., 3).\n
+        - Tap the hint icon to temporarily reveal one unmatched pair.\n
+        - Use hints wisely!
+    </string>
+
+    <string name="back">Back</string>
+    <string name="time">Time</string>
+    <string name="_60s">60s</string>
+    <string name="hint">Hint</string>
+    <string name="_3">3</string>
+    <string name="moves_0">Moves: 0</string>
+    <string name="pairs_0_8">Pairs: 0/8</string>
+    <string name="instructions">Instructions</string>
+    <string name="choose_your_mission">Choose Your Mission</string>
+    <string name="level_x_cleared">Level X Cleared!</string>
+    <string name="time_taken_30_seconds">Time Taken: 30 seconds</string>
+    <string name="moves_used_42">Moves Used: 42</string>
+    <string name="cosmic_match_logo">Cosmic Match Logo</string>
+    <string name="memory_card">Memory Card</string>
+</resources>

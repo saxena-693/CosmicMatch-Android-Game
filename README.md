@@ -79,9 +79,9 @@ Adapters (RecyclerView CardAdapter)
 </p>
 
 <p align="center">
-  <img src="./screenshots/splash_screen.png" width="220" />
-  <img src="./screenshots/home_screen.png" width="220" />
-  <img src="./screenshots/instruction_screen.png" width="220" />
+  <img src="./screenshots/splash_screen.jpeg" width="220" />
+  <img src="./screenshots/home_screen.jpeg" width="220" />
+  <img src="./screenshots/instruction_screen.jpeg" width="220" />
 </p>
 
 <p align="center">
@@ -91,9 +91,9 @@ Adapters (RecyclerView CardAdapter)
 </p>
 
 <p align="center">
-  <img src="./screenshots/gamemode_screen.png" width="220" />
-  <img src="./screenshots/cardmatch_screen.png" width="220" />
-  <img src="./screenshots/result_screen.png" width="220" />
+  <img src="./screenshots/gamemode_screen.jpeg" width="220" />
+  <img src="./screenshots/cardmatch_screen.jpeg" width="220" />
+  <img src="./screenshots/result_screen.jpeg" width="220" />
 </p>
 
 ---
